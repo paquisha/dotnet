@@ -1,0 +1,15 @@
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\bin\Debug\net6.0\CalculoHoras.exe
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\bin\Debug\net6.0\CalculoHoras.deps.json
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\bin\Debug\net6.0\CalculoHoras.runtimeconfig.json
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\bin\Debug\net6.0\CalculoHoras.dll
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\bin\Debug\net6.0\ref\CalculoHoras.dll
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\bin\Debug\net6.0\CalculoHoras.pdb
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\CalculoHoras.csproj.AssemblyReference.cache
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\CalculoHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\CalculoHoras.AssemblyInfoInputs.cache
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\CalculoHoras.AssemblyInfo.cs
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\CalculoHoras.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\CalculoHoras.dll
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\ref\CalculoHoras.dll
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\CalculoHoras.pdb
+C:\aprender\dotnet\CalculoHoras\CalculoHoras\obj\Debug\net6.0\CalculoHoras.genruntimeconfig.cache
