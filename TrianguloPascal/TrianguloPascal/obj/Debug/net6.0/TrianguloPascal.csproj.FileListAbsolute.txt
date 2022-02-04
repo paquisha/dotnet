@@ -1,0 +1,15 @@
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\bin\Debug\net6.0\TrianguloPascal.exe
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\bin\Debug\net6.0\TrianguloPascal.deps.json
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\bin\Debug\net6.0\TrianguloPascal.runtimeconfig.json
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\bin\Debug\net6.0\TrianguloPascal.dll
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\bin\Debug\net6.0\ref\TrianguloPascal.dll
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\bin\Debug\net6.0\TrianguloPascal.pdb
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\TrianguloPascal.csproj.AssemblyReference.cache
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\TrianguloPascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\TrianguloPascal.AssemblyInfoInputs.cache
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\TrianguloPascal.AssemblyInfo.cs
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\TrianguloPascal.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\TrianguloPascal.dll
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\ref\TrianguloPascal.dll
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\TrianguloPascal.pdb
+C:\aprender\dotnet\TrianguloPascal\TrianguloPascal\obj\Debug\net6.0\TrianguloPascal.genruntimeconfig.cache
