@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rrXtgkAhbRkSXNOQueM8pV8fGWxewHlapK9bN9rnmfI=",
+  "Hash": "3livFjlQJznEfaKkvh7ZHcz5rHdmuXifwR5cRtMGrLA=",
   "Source": "SistemasVentas",
   "BasePath": "_content/SistemasVentas",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\images\\images\\default.png",
+      "SourceId": "SistemasVentas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\",
+      "BasePath": "_content/SistemasVentas",
+      "RelativePath": "images/images/default.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images\\default.png"
     },
     {
       "Identity": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\js\\site.js",
