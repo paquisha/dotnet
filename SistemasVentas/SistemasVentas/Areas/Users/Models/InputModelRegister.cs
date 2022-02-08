@@ -26,5 +26,8 @@ namespace SistemasVentas.Areas.Users.Models
         [Required(ErrorMessage = "Campo Password es obligatorio")]
         [StringLength(100, ErrorMessage = "El numerod e caracteres de {0} debe ser al menos {2}.", MinimumLength = 6)]
         public string Password { get; set; }
+
+        [Required(ErrorMessage = "Seleccione un rol")]
+        public string Role { get; set; }
     }
 }

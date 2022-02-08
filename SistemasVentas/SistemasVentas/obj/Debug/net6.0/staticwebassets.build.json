@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3livFjlQJznEfaKkvh7ZHcz5rHdmuXifwR5cRtMGrLA=",
+  "Hash": "9RV2HowkJoZAYMj0R32V9wdynQx8HzqSyIo3NsaYOVg=",
   "Source": "SistemasVentas",
   "BasePath": "_content/SistemasVentas",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\images\\images\\default.png"
     },
     {
+      "Identity": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\js\\Principal.js",
+      "SourceId": "SistemasVentas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\",
+      "BasePath": "_content/SistemasVentas",
+      "RelativePath": "js/Principal.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Principal.js"
+    },
+    {
       "Identity": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\js\\site.js",
       "SourceId": "SistemasVentas",
       "SourceType": "Discovered",
@@ -117,6 +134,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\js\\Uploadpicture.js",
+      "SourceId": "SistemasVentas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\",
+      "BasePath": "_content/SistemasVentas",
+      "RelativePath": "js/Uploadpicture.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Uploadpicture.js"
+    },
+    {
+      "Identity": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\js\\User.js",
+      "SourceId": "SistemasVentas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\",
+      "BasePath": "_content/SistemasVentas",
+      "RelativePath": "js/User.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\User.js"
     },
     {
       "Identity": "C:\\aprender\\dotnet\\SistemasVentas\\SistemasVentas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
