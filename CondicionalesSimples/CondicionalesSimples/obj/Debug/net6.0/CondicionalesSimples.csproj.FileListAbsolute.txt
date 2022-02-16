@@ -1,0 +1,15 @@
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\bin\Debug\net6.0\CondicionalesSimples.exe
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\bin\Debug\net6.0\CondicionalesSimples.deps.json
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\bin\Debug\net6.0\CondicionalesSimples.runtimeconfig.json
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\bin\Debug\net6.0\CondicionalesSimples.dll
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\bin\Debug\net6.0\CondicionalesSimples.pdb
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\CondicionalesSimples.csproj.AssemblyReference.cache
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\CondicionalesSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\CondicionalesSimples.AssemblyInfoInputs.cache
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\CondicionalesSimples.AssemblyInfo.cs
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\CondicionalesSimples.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\CondicionalesSimples.dll
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\refint\CondicionalesSimples.dll
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\CondicionalesSimples.pdb
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\CondicionalesSimples.genruntimeconfig.cache
+C:\aprender\dotnet\CondicionalesSimples\CondicionalesSimples\obj\Debug\net6.0\ref\CondicionalesSimples.dll

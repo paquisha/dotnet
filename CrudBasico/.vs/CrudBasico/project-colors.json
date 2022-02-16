@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "daf7fe78-9620-4b9b-a567-216df2ce2a3f": {
+      "ProjectGuid": "daf7fe78-9620-4b9b-a567-216df2ce2a3f",
+      "DisplayName": "CrudBasico",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
