@@ -1,0 +1,15 @@
+C:\aprender\dotnet\CalculoCifrasBasico\bin\Debug\net6.0\CalculoCifrasBasico.exe
+C:\aprender\dotnet\CalculoCifrasBasico\bin\Debug\net6.0\CalculoCifrasBasico.deps.json
+C:\aprender\dotnet\CalculoCifrasBasico\bin\Debug\net6.0\CalculoCifrasBasico.runtimeconfig.json
+C:\aprender\dotnet\CalculoCifrasBasico\bin\Debug\net6.0\CalculoCifrasBasico.dll
+C:\aprender\dotnet\CalculoCifrasBasico\bin\Debug\net6.0\CalculoCifrasBasico.pdb
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\CalculoCifrasBasico.csproj.AssemblyReference.cache
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\CalculoCifrasBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\CalculoCifrasBasico.AssemblyInfoInputs.cache
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\CalculoCifrasBasico.AssemblyInfo.cs
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\CalculoCifrasBasico.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\CalculoCifrasBasico.dll
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\refint\CalculoCifrasBasico.dll
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\CalculoCifrasBasico.pdb
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\CalculoCifrasBasico.genruntimeconfig.cache
+C:\aprender\dotnet\CalculoCifrasBasico\obj\Debug\net6.0\ref\CalculoCifrasBasico.dll
