@@ -199,12 +199,91 @@ namespace CondicionesCompuestas
 
             static void sexto()
             {
-                Console.WriteLine("sexto ejercio");
+                Console.WriteLine("De un operario se conoce su sueldo y los años de antigüedad.\n"+
+                    "Se pide confeccionar un programa que lea los datos de entrada e informe:\n"+
+                    "a) Si el sueldo es inferior a 500 y su antigüedad es igual o superior a 10 años,\n"+
+                    "otorgarle un aumento del 20 %, mostrar el sueldo a pagar.\n"+
+                    "b)Si el sueldo es inferior a 500 pero su antigüedad es menor a 10 años, otorgarle un aumento de 5 %.\n"+
+                    "c) Si el sueldo es mayor o igual a 500 mostrar el sueldo en pantalla sin cambios.");
+                int antiguedad;
+                double sueldo;
+                string linea;
+                Console.WriteLine("Ingrese sueldo: ");
+                linea = Console.ReadLine();
+                sueldo = double.Parse(linea);
+
+                Console.WriteLine("Ingrese antiguedad: ");
+                linea = Console.ReadLine();
+                antiguedad = int.Parse(linea);
+
+                if(sueldo < 500 && antiguedad >= 10)
+                {
+                    sueldo = 20 * sueldo / 100;
+                    Console.WriteLine($"tiene una aumento del 20% en su sueldo: {sueldo}");
+                }
+                else
+                {
+                    if(sueldo < 500 && antiguedad < 10)
+                    {
+                        sueldo = 5 * sueldo / 100;
+                        Console.WriteLine($"Tiene un aumento del 5% en su sueldo: {sueldo}");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Su sueldo es: {sueldo}");
+                    }
+                }
             }
 
             static void septimo()
             {
-                Console.WriteLine("septimo ejercio");
+                Console.WriteLine("Escribir un programa en el cual: dada una lista de tres valores numéricos\n"+
+                    "distintos se calcule e informe su rango de variación (debe mostrar el mayor y el menor de ellos)");
+                int num1, num2, num3;
+                string linea;
+                Console.WriteLine("Ingrese primer numero: ");
+                linea = Console.ReadLine();
+                num1 = int.Parse(linea);
+                Console.WriteLine("Ingrese segundo numero: ");
+                linea = Console.ReadLine();
+                num2 = int.Parse(linea);
+                Console.WriteLine("Ingrese tercer numero: ");
+                linea = Console.ReadLine();
+                num3 = int.Parse(linea);
+
+                Console.WriteLine("Rango de variacion:\n");
+                if(num1 < num2 && num1 < num3)
+                {
+                    Console.WriteLine(num1);
+                }
+                else
+                {
+                    if(num2 < num3)
+                    {
+                        Console.WriteLine(num2);
+                    }
+                    else
+                    {
+                        Console.WriteLine(num3);
+                    }
+                }
+                Console.WriteLine("-");
+                if(num1 > num2 && num1 > num3)
+                {
+                    Console.WriteLine(num1);
+                }
+                else
+                {
+                    if(num2 > num3)
+                    {
+                        Console.WriteLine(num2);
+                    }
+                    else
+                    {
+                        Console.WriteLine(num3);
+                    }
+                }
+                Console.ReadKey();
             }
         }
     }
