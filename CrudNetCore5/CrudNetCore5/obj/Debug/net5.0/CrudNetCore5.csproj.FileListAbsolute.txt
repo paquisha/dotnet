@@ -430,3 +430,6 @@ C:\aprender\dotnet\CrudNetCore5\CrudNetCore5\bin\Debug\net5.0\zh-Hant\Microsoft.
 C:\aprender\dotnet\CrudNetCore5\CrudNetCore5\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\aprender\dotnet\CrudNetCore5\CrudNetCore5\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\aprender\dotnet\CrudNetCore5\CrudNetCore5\obj\Debug\net5.0\Razor\Views\Libros\Index.cshtml.g.cs
+C:\aprender\dotnet\CrudNetCore5\CrudNetCore5\obj\Debug\net5.0\Razor\Views\Libros\Create.cshtml.g.cs
+C:\aprender\dotnet\CrudNetCore5\CrudNetCore5\obj\Debug\net5.0\Razor\Views\Libros\Edit.cshtml.g.cs
+C:\aprender\dotnet\CrudNetCore5\CrudNetCore5\obj\Debug\net5.0\Razor\Views\Libros\Delete.cshtml.g.cs
