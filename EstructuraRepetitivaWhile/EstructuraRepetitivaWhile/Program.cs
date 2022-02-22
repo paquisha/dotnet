@@ -6,7 +6,12 @@ namespace EstructuraRepetitivaWhile
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int contador = 0;
+            while(contador <= 10)
+            {
+                Console.WriteLine($"numero: {contador}");
+                contador = contador + 1;
+            }
         }
     }
 }
