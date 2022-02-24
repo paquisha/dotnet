@@ -1,0 +1,15 @@
+C:\aprender\dotnet\CondicionalesEjercicios\bin\Debug\net6.0\CondicionalesEjercicios.exe
+C:\aprender\dotnet\CondicionalesEjercicios\bin\Debug\net6.0\CondicionalesEjercicios.deps.json
+C:\aprender\dotnet\CondicionalesEjercicios\bin\Debug\net6.0\CondicionalesEjercicios.runtimeconfig.json
+C:\aprender\dotnet\CondicionalesEjercicios\bin\Debug\net6.0\CondicionalesEjercicios.dll
+C:\aprender\dotnet\CondicionalesEjercicios\bin\Debug\net6.0\CondicionalesEjercicios.pdb
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\CondicionalesEjercicios.csproj.AssemblyReference.cache
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\CondicionalesEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\CondicionalesEjercicios.AssemblyInfoInputs.cache
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\CondicionalesEjercicios.AssemblyInfo.cs
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\CondicionalesEjercicios.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\CondicionalesEjercicios.dll
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\refint\CondicionalesEjercicios.dll
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\CondicionalesEjercicios.pdb
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\CondicionalesEjercicios.genruntimeconfig.cache
+C:\aprender\dotnet\CondicionalesEjercicios\obj\Debug\net6.0\ref\CondicionalesEjercicios.dll

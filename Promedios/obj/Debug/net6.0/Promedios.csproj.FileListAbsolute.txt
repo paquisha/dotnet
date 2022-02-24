@@ -1,0 +1,15 @@
+C:\aprender\dotnet\Promedios\bin\Debug\net6.0\Promedios.exe
+C:\aprender\dotnet\Promedios\bin\Debug\net6.0\Promedios.deps.json
+C:\aprender\dotnet\Promedios\bin\Debug\net6.0\Promedios.runtimeconfig.json
+C:\aprender\dotnet\Promedios\bin\Debug\net6.0\Promedios.dll
+C:\aprender\dotnet\Promedios\bin\Debug\net6.0\Promedios.pdb
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\Promedios.csproj.AssemblyReference.cache
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\Promedios.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\Promedios.AssemblyInfoInputs.cache
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\Promedios.AssemblyInfo.cs
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\Promedios.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\Promedios.dll
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\refint\Promedios.dll
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\Promedios.pdb
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\Promedios.genruntimeconfig.cache
+C:\aprender\dotnet\Promedios\obj\Debug\net6.0\ref\Promedios.dll

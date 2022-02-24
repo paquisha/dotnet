@@ -1,0 +1,16 @@
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\bin\Debug\net5.0\EstructuraRepetitivaWhile.exe
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\bin\Debug\net5.0\EstructuraRepetitivaWhile.deps.json
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\bin\Debug\net5.0\EstructuraRepetitivaWhile.runtimeconfig.json
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\bin\Debug\net5.0\EstructuraRepetitivaWhile.runtimeconfig.dev.json
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\bin\Debug\net5.0\EstructuraRepetitivaWhile.dll
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\bin\Debug\net5.0\ref\EstructuraRepetitivaWhile.dll
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\bin\Debug\net5.0\EstructuraRepetitivaWhile.pdb
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\EstructuraRepetitivaWhile.csproj.AssemblyReference.cache
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\EstructuraRepetitivaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\EstructuraRepetitivaWhile.AssemblyInfoInputs.cache
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\EstructuraRepetitivaWhile.AssemblyInfo.cs
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\EstructuraRepetitivaWhile.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\EstructuraRepetitivaWhile.dll
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\ref\EstructuraRepetitivaWhile.dll
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\EstructuraRepetitivaWhile.pdb
+C:\aprender\dotnet\EstructuraRepetitivaWhile\EstructuraRepetitivaWhile\obj\Debug\net5.0\EstructuraRepetitivaWhile.genruntimeconfig.cache

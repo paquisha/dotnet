@@ -1,0 +1,15 @@
+C:\aprender\dotnet\CondicionalesAnidados\bin\Debug\net6.0\CondicionalesAnidados.exe
+C:\aprender\dotnet\CondicionalesAnidados\bin\Debug\net6.0\CondicionalesAnidados.deps.json
+C:\aprender\dotnet\CondicionalesAnidados\bin\Debug\net6.0\CondicionalesAnidados.runtimeconfig.json
+C:\aprender\dotnet\CondicionalesAnidados\bin\Debug\net6.0\CondicionalesAnidados.dll
+C:\aprender\dotnet\CondicionalesAnidados\bin\Debug\net6.0\CondicionalesAnidados.pdb
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\CondicionalesAnidados.csproj.AssemblyReference.cache
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\CondicionalesAnidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\CondicionalesAnidados.AssemblyInfoInputs.cache
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\CondicionalesAnidados.AssemblyInfo.cs
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\CondicionalesAnidados.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\CondicionalesAnidados.dll
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\refint\CondicionalesAnidados.dll
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\CondicionalesAnidados.pdb
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\CondicionalesAnidados.genruntimeconfig.cache
+C:\aprender\dotnet\CondicionalesAnidados\obj\Debug\net6.0\ref\CondicionalesAnidados.dll

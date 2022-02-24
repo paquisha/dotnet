@@ -1,0 +1,16 @@
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\bin\Debug\net5.0\CondicionesCompuestas.exe
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\bin\Debug\net5.0\CondicionesCompuestas.deps.json
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\bin\Debug\net5.0\CondicionesCompuestas.runtimeconfig.json
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\bin\Debug\net5.0\CondicionesCompuestas.runtimeconfig.dev.json
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\bin\Debug\net5.0\CondicionesCompuestas.dll
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\bin\Debug\net5.0\ref\CondicionesCompuestas.dll
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\bin\Debug\net5.0\CondicionesCompuestas.pdb
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\CondicionesCompuestas.csproj.AssemblyReference.cache
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\CondicionesCompuestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\CondicionesCompuestas.AssemblyInfoInputs.cache
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\CondicionesCompuestas.AssemblyInfo.cs
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\CondicionesCompuestas.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\CondicionesCompuestas.dll
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\ref\CondicionesCompuestas.dll
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\CondicionesCompuestas.pdb
+C:\aprender\dotnet\CondicionesCompuestas\CondicionesCompuestas\obj\Debug\net5.0\CondicionesCompuestas.genruntimeconfig.cache

@@ -6,7 +6,7 @@ namespace webApiAutores.Controllers
 {
     [ApiController]
     [Route("api/autores")]
-    public class AutoresController : Controller
+    public class AutoresController : ControllerBase
     {
         private ApplicationDbContext context;
 
@@ -16,6 +16,8 @@ namespace webApiAutores.Controllers
         {
             this.context = context;
         }
+
+
         [HttpGet]
         public async Task<ActionResult<List<Autor>>> Get()
         {
