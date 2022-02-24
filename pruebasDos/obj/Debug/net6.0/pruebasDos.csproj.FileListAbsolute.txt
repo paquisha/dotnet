@@ -1,0 +1,15 @@
+C:\aprender\dotnet\pruebasDos\bin\Debug\net6.0\pruebasDos.exe
+C:\aprender\dotnet\pruebasDos\bin\Debug\net6.0\pruebasDos.deps.json
+C:\aprender\dotnet\pruebasDos\bin\Debug\net6.0\pruebasDos.runtimeconfig.json
+C:\aprender\dotnet\pruebasDos\bin\Debug\net6.0\pruebasDos.dll
+C:\aprender\dotnet\pruebasDos\bin\Debug\net6.0\pruebasDos.pdb
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\pruebasDos.csproj.AssemblyReference.cache
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\pruebasDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\pruebasDos.AssemblyInfoInputs.cache
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\pruebasDos.AssemblyInfo.cs
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\pruebasDos.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\pruebasDos.dll
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\refint\pruebasDos.dll
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\pruebasDos.pdb
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\pruebasDos.genruntimeconfig.cache
+C:\aprender\dotnet\pruebasDos\obj\Debug\net6.0\ref\pruebasDos.dll
