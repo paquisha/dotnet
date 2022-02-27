@@ -1,0 +1,11 @@
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\bin\Debug\netcoreapp3.1\EstructurasRepetitivas.exe
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\bin\Debug\netcoreapp3.1\EstructurasRepetitivas.deps.json
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\bin\Debug\netcoreapp3.1\EstructurasRepetitivas.runtimeconfig.json
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\bin\Debug\netcoreapp3.1\EstructurasRepetitivas.runtimeconfig.dev.json
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\bin\Debug\netcoreapp3.1\EstructurasRepetitivas.dll
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\bin\Debug\netcoreapp3.1\EstructurasRepetitivas.pdb
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\obj\Debug\netcoreapp3.1\EstructurasRepetitivas.csprojAssemblyReference.cache
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\obj\Debug\netcoreapp3.1\EstructurasRepetitivas.AssemblyInfoInputs.cache
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\obj\Debug\netcoreapp3.1\EstructurasRepetitivas.AssemblyInfo.cs
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\obj\Debug\netcoreapp3.1\EstructurasRepetitivas.dll
+D:\manuales\Manuales de Inducción\aprender\dotnet\EstructurasRepetitivas\obj\Debug\netcoreapp3.1\EstructurasRepetitivas.pdb
