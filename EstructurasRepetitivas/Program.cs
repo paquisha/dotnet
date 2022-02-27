@@ -6,7 +6,11 @@ namespace EstructurasRepetitivas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x = 1;
+            while(x <= 10){
+                Console.WriteLine(x);
+                x++;
+            }
         }
     }
 }
