@@ -97,11 +97,10 @@ namespace EstructurasRepetitivas
                     }                
                     promedio = suma/limite;
                     Console.WriteLine($"Altura promedio: {promedio}");
-
                 }
 
                 void tercero(){
-
+                    
                 }
 
                 void cuarto(){
