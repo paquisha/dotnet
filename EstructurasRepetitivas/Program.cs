@@ -100,7 +100,7 @@ namespace EstructurasRepetitivas
                 }
 
                 void tercero(){
-                    float sueldo;
+                    float sueldo, sumaSueldos = 0;
                     string linea;
                     int x = 1, empleados, contadorSueldosMenores = 0, constadorSueldosMayores = 0;
                     
@@ -117,12 +117,16 @@ namespace EstructurasRepetitivas
                         }else{
                             constadorSueldosMayores++;
                         }
+                        sumaSueldos = sumaSueldos + sueldo;
                         x++;
                     }
+                    Console.WriteLine($"Empleados que cobran entre 100 y 300: {contadorSueldosMenores}");
+                    Console.WriteLine($"Empleados que cobran mas de 300: {constadorSueldosMayores}");
+                    Console.WriteLine($"Importe de sueldos: ${sumaSueldos}");
                 }
 
                 void cuarto(){
-
+                    
                 }
 
                 void quinto(){
