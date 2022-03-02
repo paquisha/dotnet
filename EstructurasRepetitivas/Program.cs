@@ -100,7 +100,25 @@ namespace EstructurasRepetitivas
                 }
 
                 void tercero(){
+                    float sueldo;
+                    string linea;
+                    int x = 1, empleados, contadorSueldosMenores = 0, constadorSueldosMayores = 0;
                     
+                    Console.WriteLine("Agrege cantidad de empleados:");
+                    linea = Console.ReadLine();
+                    empleados = int.Parse(linea);
+
+                    while(x <= empleados){
+                        Console.WriteLine("Ingrese el sueldo del empleado: ");
+                        linea = Console.ReadLine();
+                        sueldo = float.Parse(linea);
+                        if(sueldo <= 300){
+                            contadorSueldosMenores++;
+                        }else{
+                            constadorSueldosMayores++;
+                        }
+                        x++;
+                    }
                 }
 
                 void cuarto(){
