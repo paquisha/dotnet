@@ -126,15 +126,26 @@ namespace EstructurasRepetitivas
                 }
 
                 void cuarto(){
-                    
+                    int x = 1, suma = 0;
+                    while(x <= 25){
+                        suma = suma + 11;
+                        Console.Write(suma);
+                        Console.Write("-");
+                        x++;
+                    }
                 }
 
                 void quinto(){
-
+                    int x = 8;
+                    while(x <= 500){
+                       Console.Write(x);
+                       Console.Write("-");
+                       x += 8;
+                    }
                 }
 
                 void sexto(){
-
+                    
                 }
 
                 void septimo(){
