@@ -145,11 +145,51 @@ namespace EstructurasRepetitivas
                 }
 
                 void sexto(){
-                    
+                    int x = 1, sumaListaA = 0, sumaListaB = 0, valor, y = 1;
+                    string linea;
+                    while(x <= 15){
+                        Console.WriteLine("Ingrese Valor lista A: ");
+                        linea = Console.ReadLine();
+                        valor = int.Parse(linea);
+                        sumaListaA += valor;
+                        x++;
+                    }
+
+                    while(y <= 15){
+                        Console.WriteLine("Ingrese Valor lista B: ");
+                        linea = Console.ReadLine();
+                        valor = int.Parse(linea);
+                        sumaListaB += valor;
+                        y++;
+                    }
+                    if(sumaListaA > sumaListaB){
+                        Console.WriteLine($"Lista A es mayor ${sumaListaA}");
+                    }else{
+                        Console.WriteLine($"Lista B es mayor ${sumaListaB}");
+                    }
                 }
 
                 void septimo(){
+                    int x= 1, valor, contadorPares = 0, contadorImpares = 0;
+                    string linea;
 
+                    Console.WriteLine("Ingrese cantidad de numeros a comparar: ");
+                    linea = Console.ReadLine();
+                    valor = int.Parse(linea);
+
+                    while(x <= valor){
+                        Console.WriteLine("Ingrese numero: ");
+                        linea = Console.ReadLine();
+                        valor = int.Parse(linea);
+                        if(valor%2 == 0){
+                            contadorPares++;
+                        }else{
+                            contadorImpares++;
+                        }
+                        x++;
+                    }
+                    Console.WriteLine($"Cantidad de pares ${contadorPares}");
+                    Console.WriteLine($"Cantidad de impares ${contadorImpares}");
                 }
         }
     }
