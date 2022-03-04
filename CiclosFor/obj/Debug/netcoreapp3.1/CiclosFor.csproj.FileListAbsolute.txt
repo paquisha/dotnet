@@ -1,0 +1,11 @@
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\bin\Debug\netcoreapp3.1\CiclosFor.exe
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\bin\Debug\netcoreapp3.1\CiclosFor.deps.json
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\bin\Debug\netcoreapp3.1\CiclosFor.runtimeconfig.json
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\bin\Debug\netcoreapp3.1\CiclosFor.runtimeconfig.dev.json
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\bin\Debug\netcoreapp3.1\CiclosFor.dll
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\bin\Debug\netcoreapp3.1\CiclosFor.pdb
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\obj\Debug\netcoreapp3.1\CiclosFor.csprojAssemblyReference.cache
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\obj\Debug\netcoreapp3.1\CiclosFor.AssemblyInfoInputs.cache
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\obj\Debug\netcoreapp3.1\CiclosFor.AssemblyInfo.cs
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\obj\Debug\netcoreapp3.1\CiclosFor.dll
+D:\manuales\Manuales de Inducción\aprender\dotnet\CiclosFor\obj\Debug\netcoreapp3.1\CiclosFor.pdb
