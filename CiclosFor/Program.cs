@@ -108,7 +108,7 @@ namespace CiclosFor
                 }
             }
 
-            async void quinto(){
+            void quinto(){
                 int triangulos, contadorEquilatero = 0, contadorEscaleno = 0, contadorIsoceles = 0;
                 float lado1, lado2, lado3;
                 string linea;
@@ -157,6 +157,12 @@ namespace CiclosFor
                         Console.WriteLine($"El triangulo Isoceles tiene menor cantidad {contadorIsoceles}");
                     }
                 }
+            }
+
+            void sexto(){
+                float x, y;
+                string linea;
+                
             }
         }
     }

@@ -1,0 +1,15 @@
+/home/aekmot/aprender/dotnet/CiclosFor/bin/Debug/netcoreapp6.0/CiclosFor
+/home/aekmot/aprender/dotnet/CiclosFor/bin/Debug/netcoreapp6.0/CiclosFor.deps.json
+/home/aekmot/aprender/dotnet/CiclosFor/bin/Debug/netcoreapp6.0/CiclosFor.runtimeconfig.json
+/home/aekmot/aprender/dotnet/CiclosFor/bin/Debug/netcoreapp6.0/CiclosFor.dll
+/home/aekmot/aprender/dotnet/CiclosFor/bin/Debug/netcoreapp6.0/CiclosFor.pdb
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/CiclosFor.csproj.AssemblyReference.cache
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/CiclosFor.GeneratedMSBuildEditorConfig.editorconfig
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/CiclosFor.AssemblyInfoInputs.cache
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/CiclosFor.AssemblyInfo.cs
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/CiclosFor.csproj.CoreCompileInputs.cache
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/CiclosFor.dll
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/refint/CiclosFor.dll
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/CiclosFor.pdb
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/CiclosFor.genruntimeconfig.cache
+/home/aekmot/aprender/dotnet/CiclosFor/obj/Debug/netcoreapp6.0/ref/CiclosFor.dll

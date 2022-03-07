@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\manuales\\Manuales de Inducción\\aprender\\dotnet\\CiclosFor\\CiclosFor.csproj": {}
+    "/home/aekmot/aprender/dotnet/CiclosFor/CiclosFor.csproj": {}
   },
   "projects": {
-    "D:\\manuales\\Manuales de Inducción\\aprender\\dotnet\\CiclosFor\\CiclosFor.csproj": {
+    "/home/aekmot/aprender/dotnet/CiclosFor/CiclosFor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\manuales\\Manuales de Inducción\\aprender\\dotnet\\CiclosFor\\CiclosFor.csproj",
+        "projectUniqueName": "/home/aekmot/aprender/dotnet/CiclosFor/CiclosFor.csproj",
         "projectName": "CiclosFor",
-        "projectPath": "D:\\manuales\\Manuales de Inducción\\aprender\\dotnet\\CiclosFor\\CiclosFor.csproj",
-        "packagesPath": "C:\\Users\\gex_grijalval\\.nuget\\packages\\",
-        "outputPath": "D:\\manuales\\Manuales de Inducción\\aprender\\dotnet\\CiclosFor\\obj\\",
+        "projectPath": "/home/aekmot/aprender/dotnet/CiclosFor/CiclosFor.csproj",
+        "packagesPath": "/home/aekmot/.nuget/packages/",
+        "outputPath": "/home/aekmot/aprender/dotnet/CiclosFor/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gex_grijalval\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/aekmot/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp6.0"
         ],
         "sources": {
-          "D:\\ConfiguracionWeb": {},
-          "D:\\nugetLocal": {},
-          "http://msazdsr.produbanco.test:8080/tfs/GFP/_packaging/Dev.nuget.org/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net6.0": {
+            "targetAlias": "netcoreapp6.0",
             "projectReferences": {}
           }
         },
@@ -41,7 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net6.0": {
+          "targetAlias": "netcoreapp6.0",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }
