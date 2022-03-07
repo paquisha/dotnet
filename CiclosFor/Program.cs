@@ -21,7 +21,12 @@ namespace CiclosFor
                             "5. Realizar un programa que lea los lados de n triángulos, e informar:"+
                             "a) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados iguales), isósceles (dos lados iguales), o escaleno (ningún lado igual)\n"+
                             "b) Cantidad de triángulos de cada tipo.\n"+
-                            "c) Tipo de triángulo que posee menor cantidad.");
+                            "c) Tipo de triángulo que posee menor cantidad.\n"+
+                            "5. Realizar un programa que lea los lados de n triángulos, e informar:\n"+
+                            "a) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados iguales), isósceles (dos lados iguales),\n"+
+                            "o escaleno (ningún lado igual)\n"+
+                            "b) Cantidad de triángulos de cada tipo.\n"+
+                            "c) Tipo de triángulo que posee menor cantidad.\n");
             linea = Console.ReadLine();
             opcion = int.Parse(linea);
 
@@ -37,6 +42,9 @@ namespace CiclosFor
                     break;
                 case 4:
                     tercero();
+                    break;
+                case 5:
+                    quinto();
                     break;
                 default:
                     Console.WriteLine("opcion no valida");
@@ -97,6 +105,57 @@ namespace CiclosFor
 
                 for(int i = 1; i <= 15; i++){
                     Console.Write($"{i} x {numero} = {i*numero}\n");
+                }
+            }
+
+            async void quinto(){
+                int triangulos, contadorEquilatero = 0, contadorEscaleno = 0, contadorIsoceles = 0;
+                float lado1, lado2, lado3;
+                string linea;
+
+                Console.WriteLine("Ingrese cantidad de triangulos a evaluar:");
+                linea = Console.ReadLine();
+                triangulos = int.Parse(linea);
+
+                for(int i = 0; i <= triangulos; i++){
+                    Console.WriteLine("ingrese primer lado: ");
+                    linea = Console.ReadLine();
+                    lado1 = float.Parse(linea);
+
+                    Console.WriteLine("ingrese segundo lado: ");
+                    linea = Console.ReadLine();
+                    lado2 = float.Parse(linea);
+
+                    Console.WriteLine("ingrese tercer lado: ");
+                    linea = Console.ReadLine();
+                    lado3 = float.Parse(linea);
+
+                    if(lado1 == lado2 && lado1 == lado3){
+                        Console.WriteLine("Es un triangulo equilatero");
+                        contadorEquilatero += 1;
+                    }else{
+                        if(lado2 == lado3 || lado2 == lado1){
+                            Console.WriteLine("Es un triangulo Isoceles");
+                            contadorIsoceles += 1;
+                        }else{
+                            Console.WriteLine("Es un triangulo Escaleno");
+                            contadorEscaleno += 1;
+                        }
+                    }                    
+                }
+
+                Console.Write($"Triangulos Equilateros: {contadorEquilatero}\n");
+                Console.Write($"Triangulos Isoceles: {contadorIsoceles}\n");
+                Console.Write($"Triangulos Escalenos: {contadorEscaleno}\n");
+
+                if(contadorEquilatero < contadorEscaleno && contadorEquilatero < contadorIsoceles){
+                    Console.WriteLine($"El triangulo Equilatero tiene menor cantidad {contadorEquilatero}");
+                }else{
+                    if(contadorEscaleno < contadorIsoceles){
+                        Console.WriteLine($"El triangulo Escaleno tiene menor cantidad {contadorEscaleno}");
+                    }else{
+                        Console.WriteLine($"El triangulo Isoceles tiene menor cantidad {contadorIsoceles}");
+                    }
                 }
             }
         }
