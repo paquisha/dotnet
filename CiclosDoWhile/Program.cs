@@ -146,7 +146,35 @@ namespace CiclosDoWhile{
             }
 
             void quinto(){
-                
+                string linea;
+                int numeroCuenta;
+                float saldoActual, suma = 0;
+                do{
+                    Console.WriteLine("Ingrese numero de cuenta: ");
+                    linea = Console.ReadLine();
+                    numeroCuenta = int.Parse(linea);
+
+                    Console.WriteLine("Ingrese saldo de la cuenta: ");
+                    linea = Console.ReadLine();
+                    saldoActual = float.Parse(linea);
+
+                    Console.WriteLine($"Numero de cuenta: {numeroCuenta}");
+                    Console.WriteLine($"Saldo disponible: {saldoActual}");
+
+                    if(saldoActual > 0){
+                        Console.WriteLine("Acreedor");
+                        suma += saldoActual;
+                    }else{
+                        if(saldoActual < 0){
+                            Console.WriteLine("Deudor");
+                        }else{
+                            Console.WriteLine("Nulo");
+                        }
+                    }
+                    
+                }while(numeroCuenta < 0);
+
+                Console.WriteLine($"Suma de saldo de acreedores: {suma}");
             }
 
         }
