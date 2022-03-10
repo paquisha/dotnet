@@ -1,0 +1,15 @@
+/home/aekmot/aprender/dotnet/EjerciciosArrays/bin/Debug/net6.0/EjerciciosArrays
+/home/aekmot/aprender/dotnet/EjerciciosArrays/bin/Debug/net6.0/EjerciciosArrays.deps.json
+/home/aekmot/aprender/dotnet/EjerciciosArrays/bin/Debug/net6.0/EjerciciosArrays.runtimeconfig.json
+/home/aekmot/aprender/dotnet/EjerciciosArrays/bin/Debug/net6.0/EjerciciosArrays.dll
+/home/aekmot/aprender/dotnet/EjerciciosArrays/bin/Debug/net6.0/EjerciciosArrays.pdb
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/EjerciciosArrays.csproj.AssemblyReference.cache
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/EjerciciosArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/EjerciciosArrays.AssemblyInfoInputs.cache
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/EjerciciosArrays.AssemblyInfo.cs
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/EjerciciosArrays.csproj.CoreCompileInputs.cache
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/EjerciciosArrays.dll
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/refint/EjerciciosArrays.dll
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/EjerciciosArrays.pdb
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/EjerciciosArrays.genruntimeconfig.cache
+/home/aekmot/aprender/dotnet/EjerciciosArrays/obj/Debug/net6.0/ref/EjerciciosArrays.dll
