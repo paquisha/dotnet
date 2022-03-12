@@ -4,7 +4,7 @@ public class VectorDos{
 
     public void Cargar(){
         alturas = new float[5];
-        for(int i = 0; i < 5; i++){
+        for(int i = 0; i < alturas.Length; i++){
             Console.WriteLine("Ingrese Altura de la persona: ");
             string linea = Console.ReadLine();
             alturas[i] = float.Parse(linea);
@@ -14,16 +14,16 @@ public class VectorDos{
     public void CalcularPromedio(){
         float suma;
         suma = 0;
-        for(int i = 0; i < 5; i++){
+        for(int i = 0; i < alturas.Length; i++){
             suma = suma + alturas[i];
         }
-        promedio = suma/5;
+        promedio = suma/alturas.Length;
         Console.WriteLine($"Promedio de alturas es {promedio}");
     }
 
     public void MayoresMenores(){
         int mayores = 0, menores = 0;
-        for(int i = 0; i < 5; i++){
+        for(int i = 0; i < alturas.Length; i++){
             if(alturas[i] > promedio){
                 mayores++;
             }else{
