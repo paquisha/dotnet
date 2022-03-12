@@ -12,7 +12,9 @@ Console.WriteLine("1. Se desea guardar los sueldos de 5 operarios.\n"+
     "4. Desarrollar un programa que permita ingresar un vector de 8 elementos, e informe:\n"+
     "El valor acumulado de todos los elementos del vector.\n"+
     "El valor acumulado de los elementos del vector que sean mayores a 36.\n"+
-    "Cantidad de valores mayores a 50.\n");
+    "Cantidad de valores mayores a 50.\n"+
+    "5. Realizar un programa que pida la carga de dos vectores numéricos enteros de 4 elementos.\n"+
+    "Obtener la suma de los dos vectores, dicho resultado guardarlo en un tercer vector del mismo tamaño. Sumar componente a componente.");
 linea = Console.ReadLine();
 opcion = int.Parse(linea);
 
@@ -28,6 +30,9 @@ switch(opcion){
         break;
     case 4:
         cuarto();
+        break;
+    case 5:
+        quinto();
         break;
     default:
         Console.WriteLine("Opcion no valida");
@@ -59,4 +64,10 @@ void cuarto(){
     vectorCuatro.Suma();
     vectorCuatro.MayoresTreintaYSeis();
     vectorCuatro.MayoresCincuenta();
+}
+
+void quinto(){
+    VectorCinco vectorCinco = new VectorCinco();
+    vectorCinco.Inicializar();
+    vectorCinco.SumaVectores();
 }
