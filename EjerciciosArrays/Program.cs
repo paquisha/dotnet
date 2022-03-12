@@ -8,7 +8,11 @@ Console.WriteLine("1. Se desea guardar los sueldos de 5 operarios.\n"+
     "Obtener el promedio de las mismas. Contar cuántas personas son más altas que el promedio y cuántas más bajas.\n"+
     "3. Una empresa tiene dos turnos (mañana y tarde) en los que trabajan 8 empleados (4 por la mañana y 4 por la tarde)\n"+
     "Confeccionar un programa que permita almacenar los sueldos de los empleados agrupados por turno.\n"+
-    "Imprimir los gastos en sueldos de cada turno.\n");
+    "Imprimir los gastos en sueldos de cada turno.\n"+
+    "4. Desarrollar un programa que permita ingresar un vector de 8 elementos, e informe:\n"+
+    "El valor acumulado de todos los elementos del vector.\n"+
+    "El valor acumulado de los elementos del vector que sean mayores a 36.\n"+
+    "Cantidad de valores mayores a 50.\n");
 linea = Console.ReadLine();
 opcion = int.Parse(linea);
 
@@ -21,6 +25,9 @@ switch(opcion){
         break;
     case 3:
         tercero();
+        break;
+    case 4:
+        cuarto();
         break;
     default:
         Console.WriteLine("Opcion no valida");
@@ -44,4 +51,12 @@ void tercero(){
    VectorTres vectorTres = new VectorTres();
    vectorTres.Cargar();
    vectorTres.CalcularGastos(); 
+}
+
+void cuarto(){
+    VectorCuatro vectorCuatro = new VectorCuatro();
+    vectorCuatro.Iniciar();
+    vectorCuatro.Suma();
+    vectorCuatro.MayoresTreintaYSeis();
+    vectorCuatro.MayoresCincuenta();
 }
