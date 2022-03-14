@@ -17,7 +17,8 @@ Console.WriteLine("1. Se desea guardar los sueldos de 5 operarios.\n"+
     "Obtener la suma de los dos vectores, dicho resultado guardarlo en un tercer vector del mismo tamaño. Sumar componente a componente.\n"+
     "6. Se tienen las notas del primer parcial de los alumnos de dos cursos, el curso A y el curso B, cada curso cuenta con 5 alumnos.\n"+
     "Realizar un programa que muestre el curso que obtuvo el mayor promedio general.\n"+
-    "7. Cargar un vector de 10 elementos y verificar posteriormente si el mismo está ordenado de menor a mayor.");
+    "7. Cargar un vector de 10 elementos y verificar posteriormente si el mismo está ordenado de menor a mayor.\n"+
+    "8. Desarrollar un programa que permita ingresar un vector de n elementos, ingresar n por teclado. Luego imprimir la suma de todos sus elementos");
 linea = Console.ReadLine();
 opcion = int.Parse(linea);
 
@@ -42,6 +43,9 @@ switch(opcion){
         break;
     case 7:
         septimo();
+        break;
+    case 8:
+        octavo();
         break;
     default:
         Console.WriteLine("Opcion no valida");
@@ -92,4 +96,10 @@ void septimo(){
     vectorSiete.Inicializar();
     vectorSiete.verificadorOrdenamiento();
     vectorSiete.Ordenado();
+}
+
+void octavo(){
+    VectorOcho vectorOcho = new VectorOcho();
+    vectorOcho.Inicializar();
+    vectorOcho.Suma();
 }
