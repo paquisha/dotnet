@@ -19,7 +19,8 @@ Console.WriteLine("1. Se desea guardar los sueldos de 5 operarios.\n"+
     "Realizar un programa que muestre el curso que obtuvo el mayor promedio general.\n"+
     "7. Cargar un vector de 10 elementos y verificar posteriormente si el mismo está ordenado de menor a mayor.\n"+
     "8. Desarrollar un programa que permita ingresar un vector de n elementos, ingresar n por teclado. Luego imprimir la suma de todos sus elementos\n"+
-    "9. Confeccionar un programa que permita cargar los nombres de 5 operarios y sus sueldos respectivos. Mostrar el sueldo mayor y el nombre del operario.");
+    "9. Confeccionar un programa que permita cargar los nombres de 5 operarios y sus sueldos respectivos. Mostrar el sueldo mayor y el nombre del operario.\n"+
+    "10. Cargar un vector de n elementos. imprimir el menor y un mensaje si se repite dentro del vector.");
 linea = Console.ReadLine();
 opcion = int.Parse(linea);
 
@@ -50,6 +51,9 @@ switch(opcion){
         break;
     case 9:
         noveno();
+        break;
+    case 10:
+        decimo();
         break;
     default:
         Console.WriteLine("Opcion no valida");
@@ -112,4 +116,11 @@ void noveno(){
     VectorNueve vectorNueve = new VectorNueve();
     vectorNueve.Cargar();
     vectorNueve.MayorSueldo();
+}
+
+void decimo(){
+    VectorDiez vectorDiez = new VectorDiez();
+    vectorDiez.Cargar();
+    vectorDiez.MenorElemento();
+    vectorDiez.RepiteMenor();
 }
