@@ -18,7 +18,8 @@ Console.WriteLine("1. Se desea guardar los sueldos de 5 operarios.\n"+
     "6. Se tienen las notas del primer parcial de los alumnos de dos cursos, el curso A y el curso B, cada curso cuenta con 5 alumnos.\n"+
     "Realizar un programa que muestre el curso que obtuvo el mayor promedio general.\n"+
     "7. Cargar un vector de 10 elementos y verificar posteriormente si el mismo está ordenado de menor a mayor.\n"+
-    "8. Desarrollar un programa que permita ingresar un vector de n elementos, ingresar n por teclado. Luego imprimir la suma de todos sus elementos");
+    "8. Desarrollar un programa que permita ingresar un vector de n elementos, ingresar n por teclado. Luego imprimir la suma de todos sus elementos\n"+
+    "9. Confeccionar un programa que permita cargar los nombres de 5 operarios y sus sueldos respectivos. Mostrar el sueldo mayor y el nombre del operario.");
 linea = Console.ReadLine();
 opcion = int.Parse(linea);
 
@@ -46,6 +47,9 @@ switch(opcion){
         break;
     case 8:
         octavo();
+        break;
+    case 9:
+        noveno();
         break;
     default:
         Console.WriteLine("Opcion no valida");
@@ -102,4 +106,10 @@ void octavo(){
     VectorOcho vectorOcho = new VectorOcho();
     vectorOcho.Inicializar();
     vectorOcho.Suma();
+}
+
+void noveno(){
+    VectorNueve vectorNueve = new VectorNueve();
+    vectorNueve.Cargar();
+    vectorNueve.MayorSueldo();
 }
