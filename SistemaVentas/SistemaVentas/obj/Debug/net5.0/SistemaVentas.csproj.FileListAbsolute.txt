@@ -159,3 +159,6 @@ C:\aprender\dotnet\SistemaVentas\SistemaVentas\obj\Debug\net5.0\SistemaVentas.pd
 C:\aprender\dotnet\SistemaVentas\SistemaVentas\obj\Debug\net5.0\SistemaVentas.genruntimeconfig.cache
 C:\aprender\dotnet\SistemaVentas\SistemaVentas\obj\Debug\net5.0\Razor\Areas\Users\Views\Users\Users.cshtml.g.cs
 C:\aprender\dotnet\SistemaVentas\SistemaVentas\obj\Debug\net5.0\Razor\Areas\Users\Views\_ViewStart.cshtml.g.cs
+C:\aprender\dotnet\SistemaVentas\SistemaVentas\obj\Debug\net5.0\Razor\Areas\Users\Pages\Account\Register.cshtml.g.cs
+C:\aprender\dotnet\SistemaVentas\SistemaVentas\obj\Debug\net5.0\Razor\Areas\Users\Pages\_ViewImports.cshtml.g.cs
+C:\aprender\dotnet\SistemaVentas\SistemaVentas\obj\Debug\net5.0\Razor\Areas\Users\Pages\_ViewStart.cshtml.g.cs

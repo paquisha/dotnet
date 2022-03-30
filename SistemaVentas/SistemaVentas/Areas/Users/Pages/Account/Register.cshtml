@@ -7,7 +7,7 @@
 <div class="container p-4">
     <form method="post" enctype="multipart/form-data">
         <div class="row">
-            <div class="col-sm-6 col-md-3">
+            <div class="col-sm-6 col-md-4">
                 <div class="card text-center">
                     <div class="card-header ">
                         <output id="imageUser">
@@ -22,7 +22,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xs-6 col-md-5">
+            <div class="col-xs-6 col-md-8">
                 <div class="panel  panel-primary">
                     <div class="panel-heading">
                         <h3 class="panel-title">Registrar usuarios</h3>
@@ -44,8 +44,8 @@
                                      data-parent="#accordionExample">
                                     <div class="card-body">
                                         <div class="form-group">
-                                            <input asp-for="Input.NID" placeholder="NID" class="form-control" autofocus />
-                                            <span asp-validation-for="Input.NID" class="text-danger"></span>
+                                            <input asp-for="Input.Cedula" placeholder="NID" class="form-control" autofocus />
+                                            <span asp-validation-for="Input.Cedula" class="text-danger"></span>
                                         </div>
                                         <div class="form-group">
                                             <input asp-for="Input.Name" placeholder="Name" class="form-control" />

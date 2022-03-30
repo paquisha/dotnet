@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using SistemaVentas.Areas.Users.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
