@@ -31,7 +31,7 @@ namespace SistemaVentas.Areas.Users.Models
         [StringLength(100, ErrorMessage = "El número de caracteres de {0} debe ser al menos {2}.", MinimumLength = 6)]
         public string Password { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Seleccione un rol.")]
         public string Role { get; set; }
     }
 }

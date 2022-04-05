@@ -113,7 +113,7 @@ namespace SistemaVentas.Areas.Users.Pages.Account
                                     {
                                         Name = Input.Name,
                                         LastName = Input.LastName,
-                                        NID = Input.Cedula,
+                                        Cedula = Input.Cedula,
                                         Email = Input.Email,
                                         IdUser = dataUser.Id,
                                         Image = imageByte,

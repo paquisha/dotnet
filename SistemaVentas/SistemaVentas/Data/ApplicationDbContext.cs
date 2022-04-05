@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using SistemaVentas.Areas.Users.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -12,5 +13,6 @@ namespace SistemaVentas.Data
             : base(options)
         {
         }
+        public DbSet<TUsers> TUsers { get; set; }
     }
 }
