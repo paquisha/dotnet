@@ -1,0 +1,16 @@
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\bin\Debug\net5.0\EjerciciosMatriz.exe
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\bin\Debug\net5.0\EjerciciosMatriz.deps.json
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\bin\Debug\net5.0\EjerciciosMatriz.runtimeconfig.json
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\bin\Debug\net5.0\EjerciciosMatriz.runtimeconfig.dev.json
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\bin\Debug\net5.0\EjerciciosMatriz.dll
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\bin\Debug\net5.0\ref\EjerciciosMatriz.dll
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\bin\Debug\net5.0\EjerciciosMatriz.pdb
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\EjerciciosMatriz.csproj.AssemblyReference.cache
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\EjerciciosMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\EjerciciosMatriz.AssemblyInfoInputs.cache
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\EjerciciosMatriz.AssemblyInfo.cs
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\EjerciciosMatriz.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\EjerciciosMatriz.dll
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\ref\EjerciciosMatriz.dll
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\EjerciciosMatriz.pdb
+C:\aprender\dotnet\EjerciciosMatriz\EjerciciosMatriz\obj\Debug\net5.0\EjerciciosMatriz.genruntimeconfig.cache
