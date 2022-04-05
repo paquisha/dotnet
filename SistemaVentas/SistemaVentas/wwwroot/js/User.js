@@ -1,3 +1,4 @@
-﻿class User extend Uploadpicture {
+﻿
+class User extends Uploadpicture {
 
 }
