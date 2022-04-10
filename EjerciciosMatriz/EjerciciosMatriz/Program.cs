@@ -16,7 +16,9 @@ namespace EjerciciosMatriz
                 "4. Crear una matriz de 2 filas y 5 columnas. Realizar la carga de componentes por columna (es decir primero ingresar toda la primer columna,\n"+
                 "luego la segunda columna y así sucesivamente)Imprimir luego la matriz\n"+
                 "5. Crear una matriz de n * m filas (cargar n y m por teclado) Imprimir la matriz completa y la última fila.\n"+
-                "6. Crear una matriz de n * m filas (cargar n y m por teclado) Imprimir el mayor elemento y la fila y columna donde se almacena.\n");
+                "6. Crear una matriz de n * m filas (cargar n y m por teclado) Imprimir el mayor elemento y la fila y columna donde se almacena.\n"+
+                "7. Crear una matriz de n * m filas (cargar n y m por teclado) Intercambiar la primer fila con la segunda. Imprimir luego la matriz.\n"+
+                "8. Crear una matriz de n * m filas (cargar n y m por teclado) Imprimir los cuatro valores que se encuentran en los vértices de la misma (mat[0][0] etc.)\n");
             linea = Console.ReadLine();
             opcion = int.Parse(linea);
 
@@ -39,6 +41,12 @@ namespace EjerciciosMatriz
                     break;
                 case 6:
                     sexto();
+                    break;
+                case 7:
+                    septimo();
+                    break;
+                case 8:
+                    octavo();
                     break;
                 default:
                     Console.WriteLine("opcion no valida");
@@ -89,6 +97,22 @@ namespace EjerciciosMatriz
                 sexto.Cargar();
                 sexto.ImprimirMayor();
             }
+
+            void septimo()
+            {
+                Septimo septimo = new Septimo();
+                septimo.Cargar();
+                septimo.Intercambiar();
+                septimo.Imprimir();
+            }
+
+            void octavo()
+            {
+                Octavo octavo = new Octavo();
+                octavo.Cargar();
+                octavo.ImprimirVertices();
+            }
+
         }
     }
 }
