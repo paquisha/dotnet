@@ -1,0 +1,16 @@
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\bin\Debug\net5.0\MatricesYVectores.exe
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\bin\Debug\net5.0\MatricesYVectores.deps.json
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\bin\Debug\net5.0\MatricesYVectores.runtimeconfig.json
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\bin\Debug\net5.0\MatricesYVectores.runtimeconfig.dev.json
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\bin\Debug\net5.0\MatricesYVectores.dll
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\bin\Debug\net5.0\ref\MatricesYVectores.dll
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\bin\Debug\net5.0\MatricesYVectores.pdb
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\MatricesYVectores.csproj.AssemblyReference.cache
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\MatricesYVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\MatricesYVectores.AssemblyInfoInputs.cache
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\MatricesYVectores.AssemblyInfo.cs
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\MatricesYVectores.csproj.CoreCompileInputs.cache
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\MatricesYVectores.dll
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\ref\MatricesYVectores.dll
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\MatricesYVectores.pdb
+C:\aprender\dotnet\MatricesYVectores\MatricesYVectores\obj\Debug\net5.0\MatricesYVectores.genruntimeconfig.cache
